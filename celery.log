@@ -1,0 +1,518 @@
+
+def debug_task(self):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def transcribe_video_task(unique_id, model_type, user_username):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def debug_task(self):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def transcribe_video_task(unique_id, model_type, user_username):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def debug_task(self):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def transcribe_video_task(unique_id, model_type, user_username):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def transcribe_video_task(unique_id, model_type, user_username):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def debug_task(self):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+[2024-02-09 16:52:46,346: WARNING/MainProcess] D:\HocAI\transribeWebsite\venv\lib\site-packages\celery\worker\consumer\consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-09 16:52:46,353: WARNING/MainProcess] D:\HocAI\transribeWebsite\venv\lib\site-packages\celery\worker\consumer\consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-09 16:52:46,881: INFO/SpawnPoolWorker-2] child process 50112 calling self.run()
+[2024-02-09 16:52:46,896: INFO/SpawnPoolWorker-1] child process 50100 calling self.run()
+[2024-02-09 16:52:46,903: INFO/SpawnPoolWorker-4] child process 40844 calling self.run()
+[2024-02-09 16:52:46,921: INFO/SpawnPoolWorker-7] child process 24944 calling self.run()
+[2024-02-09 16:52:46,925: INFO/SpawnPoolWorker-8] child process 46920 calling self.run()
+[2024-02-09 16:52:46,938: INFO/SpawnPoolWorker-9] child process 17624 calling self.run()
+[2024-02-09 16:52:46,941: INFO/SpawnPoolWorker-6] child process 23720 calling self.run()
+[2024-02-09 16:52:46,948: INFO/SpawnPoolWorker-3] child process 33704 calling self.run()
+[2024-02-09 16:52:46,950: INFO/SpawnPoolWorker-5] child process 28484 calling self.run()
+[2024-02-09 16:52:46,954: INFO/SpawnPoolWorker-12] child process 46968 calling self.run()
+[2024-02-09 16:52:46,957: INFO/SpawnPoolWorker-11] child process 45636 calling self.run()
+[2024-02-09 16:52:46,966: INFO/SpawnPoolWorker-14] child process 528 calling self.run()
+[2024-02-09 16:52:46,973: INFO/SpawnPoolWorker-10] child process 22020 calling self.run()
+[2024-02-09 16:52:46,977: INFO/SpawnPoolWorker-13] child process 49044 calling self.run()
+[2024-02-09 16:52:46,986: INFO/SpawnPoolWorker-17] child process 7504 calling self.run()
+[2024-02-09 16:52:46,991: INFO/SpawnPoolWorker-15] child process 41344 calling self.run()
+[2024-02-09 16:52:46,998: INFO/SpawnPoolWorker-20] child process 21468 calling self.run()
+[2024-02-09 16:52:47,000: INFO/SpawnPoolWorker-22] child process 40676 calling self.run()
+[2024-02-09 16:52:47,012: INFO/SpawnPoolWorker-21] child process 21012 calling self.run()
+[2024-02-09 16:52:47,012: INFO/SpawnPoolWorker-16] child process 41072 calling self.run()
+[2024-02-09 16:52:47,013: INFO/SpawnPoolWorker-19] child process 46236 calling self.run()
+[2024-02-09 16:52:47,023: INFO/SpawnPoolWorker-18] child process 40556 calling self.run()
+[2024-02-09 16:52:47,027: INFO/SpawnPoolWorker-23] child process 47856 calling self.run()
+[2024-02-09 16:52:47,030: INFO/SpawnPoolWorker-24] child process 19928 calling self.run()
+[2024-02-09 16:52:52,678: INFO/SpawnPoolWorker-25] child process 34600 calling self.run()
+[2024-02-09 16:52:52,694: INFO/SpawnPoolWorker-28] child process 43032 calling self.run()
+[2024-02-09 16:52:52,711: INFO/SpawnPoolWorker-26] child process 36036 calling self.run()
+[2024-02-09 16:52:52,717: INFO/SpawnPoolWorker-27] child process 44924 calling self.run()
+[2024-02-09 16:52:52,721: INFO/SpawnPoolWorker-29] child process 49804 calling self.run()
+[2024-02-09 16:52:52,721: INFO/SpawnPoolWorker-31] child process 44048 calling self.run()
+[2024-02-09 16:52:52,736: INFO/SpawnPoolWorker-30] child process 18952 calling self.run()
+[2024-02-09 16:52:52,736: INFO/SpawnPoolWorker-33] child process 26620 calling self.run()
+[2024-02-09 16:52:52,737: INFO/SpawnPoolWorker-32] child process 45768 calling self.run()
+[2024-02-09 16:52:52,744: INFO/SpawnPoolWorker-35] child process 27612 calling self.run()
+[2024-02-09 16:52:52,745: INFO/SpawnPoolWorker-34] child process 46276 calling self.run()
+[2024-02-09 16:52:53,588: INFO/SpawnPoolWorker-38] child process 49728 calling self.run()
+[2024-02-09 16:52:53,601: INFO/SpawnPoolWorker-37] child process 17768 calling self.run()
+[2024-02-09 16:52:53,605: INFO/SpawnPoolWorker-36] child process 45044 calling self.run()
+[2024-02-09 16:52:53,613: INFO/SpawnPoolWorker-40] child process 34876 calling self.run()
+[2024-02-09 16:52:53,614: INFO/SpawnPoolWorker-39] child process 44572 calling self.run()
+[2024-02-09 16:52:53,621: INFO/SpawnPoolWorker-41] child process 45268 calling self.run()
+[2024-02-09 16:53:04,046: INFO/SpawnPoolWorker-42] child process 48220 calling self.run()
+[2024-02-09 16:53:04,055: INFO/SpawnPoolWorker-43] child process 25216 calling self.run()
+[2024-02-09 16:53:04,058: INFO/SpawnPoolWorker-46] child process 45432 calling self.run()
+[2024-02-09 16:53:04,086: INFO/SpawnPoolWorker-47] child process 36080 calling self.run()
+[2024-02-09 16:53:04,087: INFO/SpawnPoolWorker-44] child process 43700 calling self.run()
+[2024-02-09 16:53:04,087: INFO/SpawnPoolWorker-48] child process 17028 calling self.run()
+[2024-02-09 16:53:04,104: INFO/SpawnPoolWorker-50] child process 36380 calling self.run()
+[2024-02-09 16:53:04,105: INFO/SpawnPoolWorker-45] child process 44284 calling self.run()
+[2024-02-09 16:53:04,106: INFO/SpawnPoolWorker-49] child process 10840 calling self.run()
+[2024-02-09 16:53:04,110: INFO/SpawnPoolWorker-51] child process 41640 calling self.run()
+[2024-02-09 16:54:23,106: INFO/SpawnPoolWorker-53] child process 49856 calling self.run()
+[2024-02-09 16:54:23,118: INFO/SpawnPoolWorker-56] child process 49488 calling self.run()
+[2024-02-09 16:54:23,121: INFO/SpawnPoolWorker-54] child process 5976 calling self.run()
+[2024-02-09 16:54:23,124: INFO/SpawnPoolWorker-59] child process 48952 calling self.run()
+[2024-02-09 16:54:23,133: INFO/SpawnPoolWorker-55] child process 24288 calling self.run()
+[2024-02-09 16:54:23,137: INFO/SpawnPoolWorker-52] child process 36524 calling self.run()
+[2024-02-09 16:54:23,141: INFO/SpawnPoolWorker-57] child process 46600 calling self.run()
+[2024-02-09 16:54:23,143: INFO/SpawnPoolWorker-60] child process 32184 calling self.run()
+[2024-02-09 16:54:23,143: INFO/SpawnPoolWorker-58] child process 49176 calling self.run()
+[2024-02-09 16:54:23,145: INFO/SpawnPoolWorker-61] child process 7232 calling self.run()
+[2024-02-09 16:59:33,523: INFO/SpawnPoolWorker-63] child process 44332 calling self.run()
+[2024-02-09 16:59:33,524: INFO/SpawnPoolWorker-62] child process 40404 calling self.run()
+[2024-02-09 16:59:33,554: INFO/SpawnPoolWorker-64] child process 47396 calling self.run()
+[2024-02-09 16:59:33,560: INFO/SpawnPoolWorker-68] child process 43376 calling self.run()
+[2024-02-09 16:59:33,561: INFO/SpawnPoolWorker-65] child process 49788 calling self.run()
+[2024-02-09 16:59:33,565: INFO/SpawnPoolWorker-66] child process 25240 calling self.run()
+[2024-02-09 16:59:33,568: INFO/SpawnPoolWorker-67] child process 42140 calling self.run()
+[2024-02-09 16:59:33,568: INFO/SpawnPoolWorker-69] child process 48320 calling self.run()
+[2024-02-09 16:59:33,572: INFO/SpawnPoolWorker-71] child process 47532 calling self.run()
+[2024-02-09 16:59:33,573: INFO/SpawnPoolWorker-70] child process 38688 calling self.run()
+[2024-02-09 17:05:22,672: INFO/SpawnPoolWorker-73] child process 24628 calling self.run()
+[2024-02-09 17:05:22,673: INFO/SpawnPoolWorker-72] child process 11632 calling self.run()
+[2024-02-09 17:05:22,686: INFO/SpawnPoolWorker-74] child process 36688 calling self.run()
+[2024-02-09 17:05:22,692: INFO/SpawnPoolWorker-77] child process 19920 calling self.run()
+[2024-02-09 17:05:22,709: INFO/SpawnPoolWorker-75] child process 46152 calling self.run()
+[2024-02-09 17:05:22,709: INFO/SpawnPoolWorker-76] child process 41508 calling self.run()
+[2024-02-09 17:05:22,713: INFO/SpawnPoolWorker-81] child process 36484 calling self.run()
+[2024-02-09 17:05:22,717: INFO/SpawnPoolWorker-78] child process 48224 calling self.run()
+[2024-02-09 17:05:22,717: INFO/SpawnPoolWorker-79] child process 48656 calling self.run()
+[2024-02-09 17:10:34,735: INFO/SpawnPoolWorker-83] child process 48924 calling self.run()
+[2024-02-09 17:10:34,752: INFO/SpawnPoolWorker-85] child process 31708 calling self.run()
+[2024-02-09 17:10:34,757: INFO/SpawnPoolWorker-82] child process 20776 calling self.run()
+[2024-02-09 17:10:34,762: INFO/SpawnPoolWorker-84] child process 39880 calling self.run()
+[2024-02-09 17:10:34,762: INFO/SpawnPoolWorker-86] child process 4056 calling self.run()
+[2024-02-09 17:10:34,765: INFO/SpawnPoolWorker-87] child process 40352 calling self.run()
+[2024-02-09 17:10:34,766: INFO/SpawnPoolWorker-90] child process 49556 calling self.run()
+[2024-02-09 17:10:34,767: INFO/SpawnPoolWorker-89] child process 47488 calling self.run()
+[2024-02-09 17:10:34,769: INFO/SpawnPoolWorker-91] child process 35916 calling self.run()
+[2024-02-09 17:10:34,771: INFO/SpawnPoolWorker-88] child process 44080 calling self.run()
+[2024-02-09 17:14:36,436: WARNING/MainProcess] D:\HocAI\transribeWebsite\venv\lib\site-packages\celery\worker\consumer\consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-09 17:14:36,443: WARNING/MainProcess] D:\HocAI\transribeWebsite\venv\lib\site-packages\celery\worker\consumer\consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-09 17:14:36,621: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:36,621: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:36,632: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:36,632: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:36,647: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:36,647: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:36,654: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:36,655: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:36,663: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:36,663: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:36,663: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:36,663: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:36,677: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:36,677: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:36,682: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:36,683: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:36,689: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:36,690: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:36,697: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:36,698: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:36,702: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:36,702: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:36,713: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:36,713: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:36,719: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:36,719: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:36,720: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:36,720: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:36,726: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:36,726: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:36,727: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:36,727: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:36,729: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:36,729: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:36,733: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:36,733: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:36,736: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:36,736: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:36,739: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:36,739: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:36,751: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:36,751: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:36,753: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:36,754: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:36,754: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:36,754: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:36,756: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:36,757: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:36,983: INFO/SpawnPoolWorker-1] child process 20832 calling self.run()
+[2024-02-09 17:14:37,006: INFO/SpawnPoolWorker-2] child process 48376 calling self.run()
+[2024-02-09 17:14:37,015: INFO/SpawnPoolWorker-3] child process 47480 calling self.run()
+[2024-02-09 17:14:37,039: INFO/SpawnPoolWorker-4] child process 3832 calling self.run()
+[2024-02-09 17:14:37,041: INFO/SpawnPoolWorker-5] child process 44648 calling self.run()
+[2024-02-09 17:14:37,047: INFO/SpawnPoolWorker-6] child process 19636 calling self.run()
+[2024-02-09 17:14:37,054: INFO/SpawnPoolWorker-7] child process 30280 calling self.run()
+[2024-02-09 17:14:37,070: INFO/SpawnPoolWorker-10] child process 47632 calling self.run()
+[2024-02-09 17:14:37,077: INFO/SpawnPoolWorker-8] child process 20772 calling self.run()
+[2024-02-09 17:14:37,078: INFO/SpawnPoolWorker-9] child process 38384 calling self.run()
+[2024-02-09 17:14:37,084: INFO/SpawnPoolWorker-11] child process 40100 calling self.run()
+[2024-02-09 17:14:37,084: INFO/SpawnPoolWorker-12] child process 25968 calling self.run()
+[2024-02-09 17:14:37,109: INFO/SpawnPoolWorker-16] child process 48880 calling self.run()
+[2024-02-09 17:14:37,119: INFO/SpawnPoolWorker-18] child process 45184 calling self.run()
+[2024-02-09 17:14:37,126: INFO/SpawnPoolWorker-15] child process 47552 calling self.run()
+[2024-02-09 17:14:37,129: INFO/SpawnPoolWorker-14] child process 35424 calling self.run()
+[2024-02-09 17:14:37,136: INFO/SpawnPoolWorker-21] child process 44332 calling self.run()
+[2024-02-09 17:14:37,138: INFO/SpawnPoolWorker-13] child process 44856 calling self.run()
+[2024-02-09 17:14:37,139: INFO/SpawnPoolWorker-17] child process 49448 calling self.run()
+[2024-02-09 17:14:37,143: INFO/SpawnPoolWorker-20] child process 1932 calling self.run()
+[2024-02-09 17:14:37,143: INFO/SpawnPoolWorker-19] child process 48828 calling self.run()
+[2024-02-09 17:14:37,145: INFO/SpawnPoolWorker-22] child process 47612 calling self.run()
+[2024-02-09 17:14:37,146: INFO/SpawnPoolWorker-23] child process 49576 calling self.run()
+[2024-02-09 17:14:37,148: INFO/SpawnPoolWorker-24] child process 43468 calling self.run()
+[2024-02-09 17:14:37,501: DEBUG/MainProcess] basic.qos: prefetch_count->96
+[2024-02-09 17:14:42,535: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:42,535: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:42,546: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:42,546: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:42,547: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:42,547: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:42,548: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:42,548: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:42,560: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:42,560: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:42,560: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:42,565: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:42,566: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:42,568: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:42,568: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:42,569: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:42,569: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:42,570: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:42,571: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:42,585: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:42,585: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:42,757: INFO/SpawnPoolWorker-25] child process 49328 calling self.run()
+[2024-02-09 17:14:42,781: INFO/SpawnPoolWorker-26] child process 44156 calling self.run()
+[2024-02-09 17:14:42,782: INFO/SpawnPoolWorker-27] child process 29760 calling self.run()
+[2024-02-09 17:14:42,784: INFO/SpawnPoolWorker-28] child process 48200 calling self.run()
+[2024-02-09 17:14:42,784: INFO/SpawnPoolWorker-29] child process 48100 calling self.run()
+[2024-02-09 17:14:42,789: INFO/SpawnPoolWorker-31] child process 17440 calling self.run()
+[2024-02-09 17:14:42,791: INFO/SpawnPoolWorker-30] child process 7520 calling self.run()
+[2024-02-09 17:14:42,799: INFO/SpawnPoolWorker-34] child process 38260 calling self.run()
+[2024-02-09 17:14:42,800: INFO/SpawnPoolWorker-33] child process 20856 calling self.run()
+[2024-02-09 17:14:42,801: INFO/SpawnPoolWorker-32] child process 11180 calling self.run()
+[2024-02-09 17:14:42,803: INFO/SpawnPoolWorker-35] child process 2156 calling self.run()
+[2024-02-09 17:14:43,451: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:43,452: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:43,459: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:43,459: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:43,459: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:43,459: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:43,470: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:43,471: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:43,472: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:43,472: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:43,476: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:43,477: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:43,478: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:43,479: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:43,484: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:43,484: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:43,485: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:43,485: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:43,487: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:43,487: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:43,488: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:14:43,488: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:14:43,758: INFO/SpawnPoolWorker-36] child process 50032 calling self.run()
+[2024-02-09 17:14:43,773: INFO/SpawnPoolWorker-42] child process 19152 calling self.run()
+[2024-02-09 17:14:43,773: INFO/SpawnPoolWorker-37] child process 49692 calling self.run()
+[2024-02-09 17:14:43,774: INFO/SpawnPoolWorker-38] child process 33096 calling self.run()
+[2024-02-09 17:14:43,785: INFO/SpawnPoolWorker-40] child process 41868 calling self.run()
+[2024-02-09 17:14:43,788: INFO/SpawnPoolWorker-39] child process 49980 calling self.run()
+[2024-02-09 17:14:43,789: INFO/SpawnPoolWorker-46] child process 48712 calling self.run()
+[2024-02-09 17:14:43,790: INFO/SpawnPoolWorker-44] child process 16464 calling self.run()
+[2024-02-09 17:14:43,798: INFO/SpawnPoolWorker-43] child process 30464 calling self.run()
+[2024-02-09 17:14:43,804: INFO/SpawnPoolWorker-45] child process 50016 calling self.run()
+[2024-02-09 17:14:43,815: INFO/SpawnPoolWorker-41] child process 49932 calling self.run()
+[2024-02-09 17:15:08,407: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:15:08,407: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:15:08,411: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:15:08,411: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:15:08,414: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:15:08,414: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:15:08,419: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:15:08,419: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:15:08,422: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:15:08,422: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:15:08,422: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:15:08,422: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:15:08,430: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:15:08,430: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:15:08,432: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:15:08,432: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:15:08,433: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:15:08,433: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:15:08,434: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 17:15:08,434: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 17:15:08,615: INFO/SpawnPoolWorker-49] child process 40208 calling self.run()
+[2024-02-09 17:15:08,615: INFO/SpawnPoolWorker-48] child process 49044 calling self.run()
+[2024-02-09 17:15:08,633: INFO/SpawnPoolWorker-51] child process 46060 calling self.run()
+[2024-02-09 17:15:08,642: INFO/SpawnPoolWorker-52] child process 38472 calling self.run()
+[2024-02-09 17:15:08,647: INFO/SpawnPoolWorker-47] child process 43604 calling self.run()
+[2024-02-09 17:15:08,649: INFO/SpawnPoolWorker-50] child process 35500 calling self.run()
+[2024-02-09 17:15:08,652: INFO/SpawnPoolWorker-54] child process 44600 calling self.run()
+[2024-02-09 17:15:08,657: INFO/SpawnPoolWorker-55] child process 42384 calling self.run()
+[2024-02-09 17:15:08,657: INFO/SpawnPoolWorker-56] child process 44088 calling self.run()
+[2024-02-09 17:15:08,657: INFO/SpawnPoolWorker-53] child process 40632 calling self.run()
+[2024-02-09 19:27:06,775: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 19:27:06,775: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 19:27:06,780: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 19:27:06,780: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 19:27:06,783: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 19:27:06,783: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 19:27:06,786: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 19:27:06,786: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 19:27:06,786: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 19:27:06,786: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 19:27:06,792: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 19:27:06,792: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 19:27:06,801: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 19:27:06,801: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 19:27:06,801: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 19:27:06,801: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 19:27:06,802: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 19:27:06,802: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 19:27:06,803: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 19:27:06,803: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 19:27:07,010: INFO/SpawnPoolWorker-57] child process 44724 calling self.run()
+[2024-02-09 19:27:07,029: INFO/SpawnPoolWorker-59] child process 25004 calling self.run()
+[2024-02-09 19:27:07,037: INFO/SpawnPoolWorker-58] child process 51188 calling self.run()
+[2024-02-09 19:27:07,041: INFO/SpawnPoolWorker-61] child process 43916 calling self.run()
+[2024-02-09 19:27:07,045: INFO/SpawnPoolWorker-62] child process 40516 calling self.run()
+[2024-02-09 19:27:07,046: INFO/SpawnPoolWorker-60] child process 46948 calling self.run()
+[2024-02-09 19:27:07,058: INFO/SpawnPoolWorker-65] child process 4760 calling self.run()
+[2024-02-09 19:27:07,058: INFO/SpawnPoolWorker-64] child process 51192 calling self.run()
+[2024-02-09 19:27:07,060: INFO/SpawnPoolWorker-66] child process 17156 calling self.run()
+[2024-02-09 19:27:07,063: INFO/SpawnPoolWorker-63] child process 51424 calling self.run()
+[2024-02-09 19:27:12,426: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 19:27:12,427: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 19:27:12,436: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 19:27:12,436: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 19:27:12,436: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 19:27:12,436: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 19:27:12,458: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 19:27:12,458: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 19:27:12,458: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 19:27:12,458: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 19:27:12,462: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 19:27:12,462: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 19:27:12,462: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 19:27:12,462: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 19:27:12,464: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 19:27:12,464: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 19:27:12,464: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 19:27:12,464: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 19:27:12,464: DEBUG/MainProcess] recreated blocker with handle 20
+[2024-02-09 19:27:12,464: DEBUG/MainProcess] recreated blocker with handle 24
+[2024-02-09 19:27:12,643: INFO/SpawnPoolWorker-68] child process 44928 calling self.run()
+[2024-02-09 19:27:12,645: INFO/SpawnPoolWorker-67] child process 46952 calling self.run()
+[2024-02-09 19:27:12,647: INFO/SpawnPoolWorker-69] child process 26312 calling self.run()
+[2024-02-09 19:27:12,676: INFO/SpawnPoolWorker-70] child process 35396 calling self.run()
+[2024-02-09 19:27:12,689: INFO/SpawnPoolWorker-75] child process 49320 calling self.run()
+[2024-02-09 19:27:12,690: INFO/SpawnPoolWorker-71] child process 10512 calling self.run()
+[2024-02-09 19:27:12,697: INFO/SpawnPoolWorker-74] child process 49340 calling self.run()
+[2024-02-09 19:27:12,699: INFO/SpawnPoolWorker-73] child process 49552 calling self.run()
+[2024-02-09 19:27:12,701: INFO/SpawnPoolWorker-72] child process 40464 calling self.run()
+[2024-02-09 19:27:12,701: INFO/SpawnPoolWorker-76] child process 49900 calling self.run()
