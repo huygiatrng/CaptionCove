@@ -1,6 +1,6 @@
 # CaptionCove
 
-CaptionCove is a dynamic web application designed to convert video content into accurate subtitles and transcripts. This project was initiated in Spring 2024 and leverages state-of-the-art technologies to provide users with a reliable and efficient platform for generating and managing video transcripts.
+CaptionCove is a backend-focused project designed to convert video content into accurate subtitles and transcripts. This project was initiated in Spring 2024 and leverages advanced technologies to provide a reliable and efficient platform for generating and managing video transcripts.
 
 ## Features
 
@@ -8,13 +8,13 @@ CaptionCove is a dynamic web application designed to convert video content into 
   
 - **User Management**: Secure user login and authentication system built with Django, ensuring that user data is protected and accessible only to authorized users.
 
-- **Scalable Backend**: The backend is powered by PostgreSQL, providing robust data management and handling high volumes of transcript data efficiently.
+- **Scalable Backend**: Powered by PostgreSQL, the backend efficiently handles high volumes of transcript data and provides robust data management.
 
 - **File Management**: Integrated with AWS S3 for secure and scalable file storage. All user data is encrypted to maintain privacy and security.
 
 - **Optimized Performance**: Utilizes AWS Load Balancers and Celery, integrated with Redis for efficient task queue management. This ensures rapid processing rates and high service availability, even under heavy load.
 
-- **Credit-Based System**: A credit-based system allows users to access transcription services based on video length. This system is designed to enhance user experience and offer flexible service options.
+- **Credit-Based System**: A credit-based system allows users to access transcription services based on video length. This system is designed to offer flexible service options and improve user experience.
 
 - **RESTful APIs**: Developed robust and reliable RESTful APIs for seamless interaction with the backend, rigorously tested with Postman to ensure efficiency and reliability.
 
@@ -59,7 +59,7 @@ CaptionCove is a dynamic web application designed to convert video content into 
    python manage.py migrate
    ```
 
-6. Start the development server:
+6. Start the Django development server:
 
    ```bash
    python manage.py runserver
@@ -67,8 +67,8 @@ CaptionCove is a dynamic web application designed to convert video content into 
 
 ### Usage
 
-- **Login/Signup**: Create an account or log in to your existing account to access the transcription services.
-  
-- **Upload Video**: Upload your video file for transcription. The system will generate subtitles and transcripts in your chosen format (SRT or VTT).
-  
-- **Manage Transcripts**: Access, download, or print your transcripts directly from the dashboard.
+- **API Integration**: Utilize the provided RESTful APIs to interact with the backend for uploading videos, managing user accounts, and generating transcripts.
+
+- **Video Transcription**: Upload videos through the API to generate subtitles and transcripts, which can be retrieved in the desired format.
+
+- **Transcript Management**: Access, download, or print transcripts via the API.
